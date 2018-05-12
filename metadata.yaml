@@ -1,0 +1,28 @@
+_repo: Kalli-the-Esquimaux-ChristianA-Memoir_21819
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Murray, T. B. (Thomas Boyles)
+    alias: Murray, Thomas Boyles
+    birthdate: 1798
+    deathdate: 1860
+    gutenberg_agent_id: '24907'
+    url: http://www.gutenberg.org/2009/agents/24907
+description: ''
+gutenberg_issued: '2007-06-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21819'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E011'
+- !lcsh 'Eskimos'
+- !lcsh 'Kallihirua, approximately 1834-1856'
+title: 'Kalli, the Esquimaux Christian: A Memoir'
+url: http://www.gutenberg.org/ebooks/21819
